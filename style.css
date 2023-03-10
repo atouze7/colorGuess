@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(2, 2, 43);
+}
+
+.div1 {
+  background-color: rgba(0, 255, 255, 0.703);
+  height: 120px;
+  border: none;
+}
+
+.color-game {
+  padding-top: 35px;
+  color: white;
+}
+
+.div2 {
+  height: 35px;
+  background-color: white;
+}
+
+.new-game:hover {
+  cursor: pointer;
+  background-color: aqua;
+}
+
+.new-game {
+  border: none;
+  background-color: white;
+}
+
+.pick {
+  padding-left: 270px;
+}
+
+.div3 {
+  padding-top: 60px;
+  padding-left: 150px;
+}
+.color-btn {
+  height: 130px;
+  width: 150px;
+  border: none;
+  background-color: none;
+}
+
+.color-btn2 {
+  background-color: none;
+}
+
+.color-btn:hover {
+  cursor: pointer;
+}
